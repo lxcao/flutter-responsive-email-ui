@@ -1,5 +1,14 @@
+<!--
+ * @Author: clingxin
+ * @Date: 2021-02-05 18:01:30
+ * @LastEditors: clingxin
+ * @LastEditTime: 2021-04-19 08:27:33
+ * @FilePath: /flutter-responsive-email-ui/README.md
+-->
 # Outlook Email App Redesign - Flutter Fully Responsive Design UI
 
+
+followed by The Flutter Way YouTube channel.
 ## [Watch it on YouTube](https://youtu.be/0mp-Ok00WZE)
 
 **Packages we are using:**
